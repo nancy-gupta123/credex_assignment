@@ -1,3 +1,4 @@
+'use client'
 import ContactForm from '@/components/ContactForm';
 import Navbar from '@/components/Navbar1';
 import Hero from '@/components/Hero';
